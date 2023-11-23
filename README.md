@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=htrbao&line_height=40&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htrbao&layout=compact&card_width=320&count_private=true&hide=jupyter%20notebook&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htrbao&count_private=true&hide=jupyter%20notebook&theme=dracula" />
   <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula" />
   <img href="https://github.com/htrbao/Tienlen-Bot" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=Tienlen-Bot&show_owner&theme=dracula" />
 </p>
