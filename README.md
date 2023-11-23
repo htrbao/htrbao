@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bao Ho-Trong</h1>
 
 <!--
 **htrbao/htrbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=htrbao&theme=dracula" />
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=htrbao" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=htrbao&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=htrbao&layout=compact&card_width=320&count_private=true&hide=jupyter%20notebook" />
+  <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula" />
+  <img href="https://github.com/htrbao/Tienlen-Bot" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=Tienlen-Bot&show_owner&theme=dracula" />
+</p>
