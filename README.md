@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Recent activities</h2>
+---
 
 <p align="center">
   <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula" />
@@ -21,13 +22,9 @@ Here are some ideas to get you started:
 </p>
 
 <h2>Statistic</h2>
-
 ---
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
----
-
-
-
 
 ---
 <img align="center" src="https://scrimba.com/articles/content/images/2022/08/Coding-or-Programming_-What-Is-the-Difference_-main-1.png">
