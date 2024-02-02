@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Recent activities</h2>
+
 ---
 
 <p align="center">
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2>Statistic</h2>
+
 ---
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
