@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula" />
+  <img href="https://github.com/htrbao/Tienlen-Bot" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=Tienlen-Bot&show_owner&theme=dracula" />
+</p>
+
 <a><h2>:chart_with_upwards_trend:</h2></a>
 
 ---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ---
 
-<p align="center">
-  <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula" />
-  <img href="https://github.com/htrbao/Tienlen-Bot" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=Tienlen-Bot&show_owner&theme=dracula" />
-</p>
+
 
 
 ---
