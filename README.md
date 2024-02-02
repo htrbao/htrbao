@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>Recent activities</h2>
 
 <p align="center">
   <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula" />
   <img href="https://github.com/htrbao/Tienlen-Bot" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=Tienlen-Bot&show_owner&theme=dracula" />
 </p>
 
-<a><h2>:chart_with_upwards_trend:</h2></a>
+<h2>Statistic</h2>
 
 ---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
