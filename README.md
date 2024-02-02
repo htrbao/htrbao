@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a><h2>:chart_with_upwards_trend: Stats</h2></a>
-
-![](https://komarev.com/ghpvc/?username=nhtlongcs&color=blueviolet&style=flat-square)
+<a><h2>:chart_with_upwards_trend:</h2></a>
 
 ---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ---
 
 <p align="center">
