@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula" />
-  <img href="https://github.com/htrbao/Tienlen-Bot" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=Tienlen-Bot&show_owner&theme=dracula" />
+  <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=transparent" />
+  <img href="https://github.com/htrbao/Tienlen-Bot" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=Tienlen-Bot&show_owner&theme=transparent" />
 </p>
 
 <h2>Statistic</h2>
