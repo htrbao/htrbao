@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula" height="100%"/>
-  <img href="https://github.com/hathienloc131/graph-of-thoughs-generator" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hathienloc131&repo=graph-of-thoughs-generator&show_owner&theme=dracula" />
-</p>
+<div style="display:flex;">
+  <img href="https://github.com/htrbao/beerlover-hackhcmc" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=beerlover-hackhcmc&show_owner&theme=dracula" />
+  <img href="https://github.com/hathienloc131/graph-of-thoughs-generator" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hathienloc131&repo=graph-of-thoughs-generator&show_owner&theme=dracula"/>
+  <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula"/>
+  
+</div>
 
 <h2>Statistic</h2>
 
