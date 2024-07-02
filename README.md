@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div style="display:flex;">
   <img href="https://github.com/htrbao/beerlover-hackhcmc" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=htrbao&repo=beerlover-hackhcmc&show_owner&theme=dracula" />
-  <img href="https://github.com/hathienloc131/graph-of-thoughs-generator" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hathienloc131&repo=graph-of-thoughs-generator&show_owner&theme=dracula"/>
+  <img href="https://github.com/ToTuanAn/AICityChallenge2024_Track2" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToTuanAn&repo=AICityChallenge2024_Track2&show_owner&theme=dracula"/>
   <img href="https://github.com/nxquang-al/vi-atiso" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxquang-al&repo=vi-atiso&show_owner&theme=dracula"/>
   
 </div>
